@@ -5,6 +5,10 @@ public class CeShi {
         System.out.println("小张");
         System.out.println("小袁");
         System.out.println("小吴");
+        System.out.println("小吴4444444");
+        System.out.println("小吴4444444");
+        System.out.println("小吴4444444");
+        System.out.println("小吴4444444");
 
     }
 }
